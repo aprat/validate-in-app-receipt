@@ -21,6 +21,8 @@ python validate.py receipt.txt
 deactivate
 ```
 
+```receipt.txt``` is a file only containing a base64-encoded receipt.
+
 ## Release History
 
 * 0.1 (2017-09-17)
